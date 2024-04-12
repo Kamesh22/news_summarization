@@ -1,3 +1,3 @@
-# news_summarization
-Dataset files
-Only for education purpose
+# Text Summarization of News Articles
+The "Text Summarization of News Articles" project is a computational approach to generate brief and coherent summaries of news articles. Our project utilizes the power of pre-trained machine learning models to condense long articles into concise summaries while preserving the core ideas and information presented in the original text. The model used in our project is the BART-Base Transformer model developed by Facebook and made available through Hugging Face. This project focuses on summarizing news articles from the CNN dataset, which contains a diverse range of topics and writing styles. The use of a pre-trained model allows for improved performance and efficient results compared to training the model from scratch. The results of this text summarization project have the potential to have a significant impact in the fields of journalism and information management. In addition, this project can also aid journalists and media outlets in presenting information to the public in a more concise and accessible manner.
+The experimental results showed that our model achieved high scores on all four ROUGE metrics, indicating that our model was effective in generating summaries that contain a high degree of overlap with the reference summaries. 
